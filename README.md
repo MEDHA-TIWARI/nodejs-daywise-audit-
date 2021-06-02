@@ -19,10 +19,10 @@ Starting from "hello world" to making a whole beautiful dynamic web site with us
 - same with setInterval() and clearInterval().
 - used callbacks, We can pass functions as parameters to other functions and call them inside the outer functions.
 - Major aspect of js, Promises, how it works how its different from callback function, how it can handle the Errors!
-  if promises are fulfilled
-      .then(onFullfillment)
-  else
-      .catch(onRejection)
+  -if promises are fulfilled
+      -.then(onFullfillment)
+  -else
+      -.catch(onRejection)
 - Blocking and non- blocking concept
 - Synchronous and Asynchronous in node.js       
 -File Handling (Fs module)
