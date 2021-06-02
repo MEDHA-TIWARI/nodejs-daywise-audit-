@@ -10,15 +10,15 @@ Starting from "hello world" to making a whole beautiful dynamic web site with us
 - basics syntaxs, and evergreen starter pack for any language "HELLO WORLD" !
 
 #Day 2- 
--basic calc, to check various arithmetic operations.
--Using module.exports and require(), how can we fetch the code of other files using 'require()' in node.js
--core module demonstration, HTTP module on browser (created server),about usable ports and a bit of networking.
+- basic calc, to check various arithmetic operations.
+- Using module.exports and require(), how can we fetch the code of other files using 'require()' in node.js
+- core module demonstration, HTTP module on browser (created server),about usable ports and a bit of networking.
 
 #Day 3-
--setting Timer, using fucntions setTimeout() and clearTimeout().
--same with setInterval() and clearInterval().
--used callbacks, We can pass functions as parameters to other functions and call them inside the outer functions.
--Major aspect of js, Promises, how it works how its different from callback function, how it can handle the Errors!
+- setting Timer, using fucntions setTimeout() and clearTimeout().
+- same with setInterval() and clearInterval().
+- used callbacks, We can pass functions as parameters to other functions and call them inside the outer functions.
+- Major aspect of js, Promises, how it works how its different from callback function, how it can handle the Errors!
   if promises are fulfilled
       .then(onFullfillment)
   else
