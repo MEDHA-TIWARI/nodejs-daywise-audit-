@@ -26,7 +26,7 @@ Starting from "hello world" to making a whole beautiful dynamic web site with us
      
  else
  
- .catch(onRejection)
+    .catch(onRejection)
  
 - Blocking and non- blocking concept
 - Synchronous and Asynchronous in node.js       
