@@ -37,7 +37,8 @@ Starting from "hello world" to making a whole beautiful dynamic web site with us
 - Installation of npm, NPM is a node package manager, it is basically used for managing dependencies of various server side dependencies.
 - installation of nodemon, nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the   directory are detected.
 - Made a chat application (ref socket.io)
-- ![GitHub Logo](/Day 4/Screenshot 2021-06-03 at 21.54.57.png)
+- <img width="1440" alt="Screenshot 2021-06-03 at 21 54 57" src="https://user-images.githubusercontent.com/41751303/120681334-e205f580-c4b8-11eb-8a75-41ae900d5501.png">
+
 
 #Day 5-
 - Express.js 
