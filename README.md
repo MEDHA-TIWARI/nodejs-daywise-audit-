@@ -45,5 +45,14 @@ Starting from "hello world" to making a whole beautiful dynamic web site with us
 - learnt about modules 
 - made a small demo web page using express.js
 - SEO url (*imp)
+- made few more types of chat-app (broadcasting, multicasting)
 
- 
+
+#Day 6-
+- Themes in node.js 
+- how easy it is do just drop all those traditional methods and adapt this cool way of doing same!
+- made skeleton of my web page 
+
+<img width="1440" alt="Screenshot 2021-06-03 at 23 38 39" src="https://user-images.githubusercontent.com/41751303/120693616-d7525d00-c4c6-11eb-9fe3-c57342f3b28b.png">
+
+- 
