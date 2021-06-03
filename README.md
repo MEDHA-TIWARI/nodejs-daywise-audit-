@@ -44,5 +44,6 @@ Starting from "hello world" to making a whole beautiful dynamic web site with us
 - Express.js 
 - learnt about modules 
 - made a small demo web page using express.js
+- SEO url (*imp)
 
  
