@@ -31,5 +31,9 @@ Starting from "hello world" to making a whole beautiful dynamic web site with us
 - Blocking and non- blocking concept
 - Synchronous and Asynchronous in node.js       
 -File Handling (Fs module)
-(includes- creating, reading, writing , deleting files and other operatings in file handling)
+(includes- creating, reading, writing , deleting files and other operatings in file handling, asynchronous read, synchronous read)
+
+#Day 4-
+- Installation of npm, NPM is a node package manager, it is basically used for managing dependencies of various server side dependencies.
+- installation of nodemon, nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the   directory are detected.
  
