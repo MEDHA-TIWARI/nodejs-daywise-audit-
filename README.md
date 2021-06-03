@@ -36,4 +36,11 @@ Starting from "hello world" to making a whole beautiful dynamic web site with us
 #Day 4-
 - Installation of npm, NPM is a node package manager, it is basically used for managing dependencies of various server side dependencies.
 - installation of nodemon, nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the   directory are detected.
+- Made a chat application (ref socket.io)
+
+#Day 5-
+- Express.js 
+- learnt about modules 
+- made a small demo web page using express.js
+
  
