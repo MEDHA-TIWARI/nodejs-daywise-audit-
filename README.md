@@ -51,7 +51,7 @@ Starting from "hello world" to making a whole beautiful dynamic web site with us
 #Day 6-
 - Themes in node.js 
 - how easy it is do just drop all those traditional methods and adapt this cool way of doing same!
-- made skeleton of my web page 
+- made skeleton of my web page in no time 
 
 <img width="1440" alt="Screenshot 2021-06-03 at 23 38 39" src="https://user-images.githubusercontent.com/41751303/120693616-d7525d00-c4c6-11eb-9fe3-c57342f3b28b.png">
 
