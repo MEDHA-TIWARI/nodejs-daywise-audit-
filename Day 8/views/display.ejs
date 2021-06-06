@@ -1,0 +1,22 @@
+<a href="/add">ADD RECORDS </a>
+<% if(db_rows_array.length > 0){ %>
+    <table border='1'>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Details</th>
+            <th>Price</th>
+        </tr>
+        <% for(var i=0; i<db_rows_array.length;i++){ %>
+            <tr>
+                <td><%= db_rows_array[i].product_id %></td>
+                <td><%= db_rows_array[i].product_name %></td>
+                <td><%= db_rows_array[i].product_details %></td>
+                <td><%= db_rows_array[i].product_price %></td>
+            </tr>
+        <%}%>
+    </table>
+
+    <% } else{ %>
+        No records found
+        <% } %>
