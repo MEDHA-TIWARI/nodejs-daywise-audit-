@@ -56,7 +56,12 @@ Starting from "hello world" to making a whole beautiful dynamic web site with us
 <img width="1440" alt="Screenshot 2021-06-03 at 23 38 39" src="https://user-images.githubusercontent.com/41751303/120693616-d7525d00-c4c6-11eb-9fe3-c57342f3b28b.png">
 
 
-#Day 7-
+#Day 7- 
+- using express js only, dynamic student form has been created
+- 
+
+<img width="1440" alt="Screenshot 2021-06-07 at 14 34 03" src="https://user-images.githubusercontent.com/41751303/120992729-7f567780-c7a0-11eb-9c04-fd6a28c741ff.png">
+<img width="1440" alt="Screenshot 2021-06-07 at 14 37 29" src="https://user-images.githubusercontent.com/41751303/120992753-867d8580-c7a0-11eb-90b7-ef35aaf61fac.png">
 
 
 
