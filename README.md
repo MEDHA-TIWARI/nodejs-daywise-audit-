@@ -88,7 +88,8 @@ Starting from "hello world" to making a whole beautiful dynamic web site with us
 - R : Read and Insert 
 
 
-<img width="1440" alt="Screenshot 2021-06-06 at 23 45 08" src="https://user-images.githubusercontent.com/41751303/121148382-5a750980-c85f-11eb-8eca-36337cfdb108.png">
+<img width="533" alt="Screenshot 2021-06-08 at 13 42 18" src="https://user-images.githubusercontent.com/41751303/121148602-8c866b80-c85f-11eb-8ca0-acebaa404ea0.png">
+
 
 
 
