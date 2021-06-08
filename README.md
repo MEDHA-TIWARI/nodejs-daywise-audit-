@@ -82,7 +82,10 @@ Starting from "hello world" to making a whole beautiful dynamic web site with us
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #Day 8-
-
+- used xampp server, and connected the DB 
+- created a small database for storing student details, and performed CRUD on different tables - 
+- C : Create
+- R : Read and Insert 
 
 
 
@@ -90,6 +93,10 @@ Starting from "hello world" to making a whole beautiful dynamic web site with us
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #Day 9-
+Futhermore, amended the DB performed following operations -
+- U  : update
+- D  :Delete
+
 
 
 
@@ -98,6 +105,11 @@ Starting from "hello world" to making a whole beautiful dynamic web site with us
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 #Day 10-
+
+Learned about rest APIs, how they work
+- created my own rest API
+- rest APIs and restful APIs
+- how to intergrate them in projects 
 
 
 
