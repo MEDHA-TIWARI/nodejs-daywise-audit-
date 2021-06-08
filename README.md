@@ -83,7 +83,7 @@ Starting from "hello world" to making a whole beautiful dynamic web site with us
 
 #Day 8-
 - used xampp server, and connected the DB 
-- created a small database for storing student details, and performed CRUD on different tables - 
+- created a small database for storing appliance details, and performed CRUD on different tables - 
 - C : Create
 - R : Read and Insert 
 
