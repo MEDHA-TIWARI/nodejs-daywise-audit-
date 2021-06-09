@@ -103,7 +103,7 @@ Futhermore, amended the DB performed following operations -
 
 <img width="701" alt="Screenshot 2021-06-09 at 13 18 49" src="https://user-images.githubusercontent.com/41751303/121391304-d78da500-c96b-11eb-83a8-07c7105dff1d.png">
 
-<img width="1423" alt="Screenshot 2021-06-09 at 12 32 53" src="https://user-images.githubusercontent.com/41751303/121391336-e07e7680-c96b-11eb-8b46-336adcb53699.png">
+<img width="916" alt="Screenshot 2021-06-09 at 21 46 07" src="https://user-images.githubusercontent.com/41751303/121391844-6ef2f800-c96c-11eb-8e98-2680a915ade4.png">
 
 
 
