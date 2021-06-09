@@ -1,0 +1,12 @@
+<html>
+    <body>
+        <h1>Edit records </h1>
+        <a href="/smarks/display">Display</a>
+        <form method="post">
+            ComputerNetworks : <input type='text' name='txt1' value ="<%= db_rows_array[0].CN %>" required>
+            ComputerOA : <input type='text' name='txt2' value ="<%= db_rows_array[0].COA %>" required>
+            OpertaingSyystem : <input type='text' name='txt3' value ="<%= db_rows_array[0].OS %>" required>
+            <input type="submit"/>
+        </form>
+    </body>
+</html>

@@ -1,0 +1,24 @@
+<a href='/smarks/add'>Add records</a>
+<% if(db_rows_array.length > 0){ %>
+    <table border='1'>
+        <tr>
+            <th>Enrollment</th>
+            <th>CN</th>
+            <th>COA</th>
+            <th>OS</th>
+            <th>Action</th>
+        </tr>
+        <% for(var i=0; i<db_rows_array.length;i++){ %>
+            <tr>
+                <td><%= db_rows_array[i].student_enr %></td>
+                <td><%= db_rows_array[i].CN %></td>
+                <td><%= db_rows_array[i].COA %></td>
+                <td><%= db_rows_array[i].OS %></td>
+                <td><a href='/smarks/edit/<%= db_rows_array[i].student_enr %>'> Edit </a> | <a href='/smarks/delete/<%= db_rows_array[i].student_enr %>'>Delete </a></td>
+            </tr>
+        <%}%>
+    </table>
+
+    <% } else{ %>
+        No records found
+        <% } %>
