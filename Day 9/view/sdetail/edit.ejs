@@ -1,0 +1,12 @@
+<html>
+    <body>
+        <h1>Edit records </h1>
+        <a href="/sdetaildisplay">Display</a>
+        <form method="post">
+            Name : <input type='text' name='txt1' value ="<%= db_rows_array[0].student_name %>" required>
+            Semester : <input type='text' name='txt2' value ="<%= db_rows_array[0].student_sem %>" required>
+            Division : <input type='text' name='txt3' value ="<%= db_rows_array[0].student_div %>" required>
+            <input type="submit"/>
+        </form>
+    </body>
+</html>
