@@ -59,7 +59,7 @@ Starting from "hello world" to making a whole beautiful dynamic web site with us
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #Day 6-
-- Themes in node.js 
+
 - how easy it is do just drop all those traditional methods and adapt this cool way of doing same!
 - made skeleton of my web page in no time 
 
