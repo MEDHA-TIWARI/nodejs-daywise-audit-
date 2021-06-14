@@ -83,6 +83,9 @@ Starting from "hello world" to making a whole beautiful dynamic web site with us
 
 #Day 8-
 - used xampp server, and connected the DB 
+
+<img width="1435" alt="Screenshot 2021-06-14 at 22 11 57" src="https://user-images.githubusercontent.com/41751303/121932910-09837a80-cd63-11eb-80f2-2220ec67358d.png">
+
 - created a small database for storing appliance details, and performed CRUD on different tables - 
 - C : Create
 - R : Read and Insert 
